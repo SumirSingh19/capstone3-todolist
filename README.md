@@ -1,2 +1,10 @@
 # capstone3-todolist
-This is my first basic backend project in which I used NodeJS and ExpressJS frameworks.  Currently I am learning the backend technologies and after that I will add more features in this project in the future.
+Install the required NPM packages and then you can run the code in your system.
+I have tested it on my computer and I have not hosted it on any server so I do not have any link to the server.
+
+You can install the packages mentioned below to run the code:-
+express
+body-parser
+ejs
+
+-----------------------------------------------------------------Thank You ----------------------------------------------------------------------------
